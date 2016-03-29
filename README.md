@@ -1,5 +1,5 @@
 
-# Analysis of airfare data between Frankfurt-New York
+# Analysis of airfare data between FRA-NYC
 
 ## Background Information
 
